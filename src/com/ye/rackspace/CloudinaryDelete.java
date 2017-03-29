@@ -15,8 +15,8 @@ public class CloudinaryDelete {
 		//create configuration file for cloudinary connection
 		Map config = new HashMap();
 		config.put("cloud_name", "yliang");
-		config.put("api_key", "827321347673686");
-		config.put("api_secret", "pg_ZDtufW6WAQpamNsdO2znSh-8");
+		config.put("api_key", "updatemewithrealapikey");
+		config.put("api_secret", "updatemewithapisecret");
 		
 		Cloudinary cloudinary = new Cloudinary(config);
 		

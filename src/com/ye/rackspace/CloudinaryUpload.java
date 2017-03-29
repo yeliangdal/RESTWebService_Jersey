@@ -50,8 +50,8 @@ public class CloudinaryUpload {
 		
 		Map config = ObjectUtils.asMap(
 				  "cloud_name", "yliang",
-				  "api_key", "827321347673686",
-				  "api_secret", "pg_ZDtufW6WAQpamNsdO2znSh-8");
+				  "api_key", "updatemewithrealapikey",
+				  "api_secret", "updatemewithapisecret");
 		Cloudinary cloudinary = new Cloudinary(config);
 		
 		try{
